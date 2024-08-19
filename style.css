@@ -1,0 +1,52 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: blue;
+    /* background-color: aqua; */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 50px;
+    /* background-color: aqua; */
+}
+
+button {
+    /* background: none;  */
+    padding: 24px;
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 200px; */
+    height: 100px;
+}
+.extra {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    /* background-color: gray; */
+    padding: 10px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#final {
+    font-size: 50px;
+    color: green;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+#temp {
+    display: flex;
+    justify-content: center;
+}
